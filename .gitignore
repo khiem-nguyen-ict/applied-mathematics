@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
